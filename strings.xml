@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">News App</string>
+    <string name="last_update">Last Update: </string>
+
+    <!-- error messages-->
+    <string name="no_internet_connection">CANNOT CONNECT TO THE INTERNET</string>
+    <string name="no_stories">Sorry no relevant story found</string>
+    <string name="no_browser">Sorry no browser, can not retrieve article</string>
+
+    <!-- strings for xml hints -->
+    <string name="nothing" translatable="false">NOTHING</string>
+    <string name="fake_date" translatable="false">01-JAN-1970 00:00</string>
+    <string name="search_image" translatable="false">press here to refresh screen</string>
+
+</resources>
